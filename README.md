@@ -1,6 +1,6 @@
 # Get Favicon from websites
 
-### Overview
+## Overview
 
 This PHP function retrieves the favicon cached by Google. It allows to get back very easily a favicon of a site to display on your Web page.
 
